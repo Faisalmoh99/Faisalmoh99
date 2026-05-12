@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Faisal Alhajah &nbsp;·&nbsp; فيصل الحجاج</h2>
+<h2>Faisal Alhajah &nbsp;·&nbsp; فيصل الحجه</h2>
 
 <p><strong>AI Engineer &amp; Founder</strong></p>
 
